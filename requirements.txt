@@ -9,5 +9,6 @@ python-dotenv
 gunicorn
 langchain_community
 python-multipart
+faiss-cpu
 
 
