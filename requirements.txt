@@ -7,4 +7,6 @@ langchain_google_genai
 google-generativeai
 python-dotenv
 gunicorn
+langchain_community
+
 
